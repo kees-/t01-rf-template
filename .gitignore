@@ -1,0 +1,19 @@
+.DS_Store
+
+/out/
+/resources/public/_js/compiled/
+/target/
+/*-init.clj
+/*.log
+
+# Leiningen
+/.nrepl-port
+
+# Node.js dependencies
+/node_modules/
+
+# Project files
+/.shadow-cljs/
+/.clj-kondo/
+/.lsp/
+/.calva/
